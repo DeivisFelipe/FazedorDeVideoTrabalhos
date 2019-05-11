@@ -1,0 +1,19 @@
+{
+  "name": "fazedordevideotrabalhos",
+  "version": "1.0.0",
+  "description": "Fazedor de vídeo trabalhos open",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos/issues"
+  },
+  "homepage": "https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos#readme"
+}
