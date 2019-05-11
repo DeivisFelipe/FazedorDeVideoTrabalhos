@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos/issues"
   },
-  "homepage": "https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos#readme"
+  "homepage": "https://github.com/DeivisFelipe/FazedorDeVideoTrabalhos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
